@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # projeto-escola
 # projeto-escola
 # projeto-escola
+# projeto-escola
